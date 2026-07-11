@@ -1,0 +1,5 @@
+防忘备忘录：
+1. 手机上用 Termux 的时候，记得先执行 apt update && apt upgrade -y，不然装不上依赖。
+2. requests 库如果报错，直接 pip install requests。
+3. 下次写 TG 机器人对接的时候，记得把 API_KEY 放到环境变量里，千万别直接硬编码写进代码推上 GitHub，容易被封！
+4. 记一下常用的几个 Docker 镜像站（找时间整理成 md 文件）。
